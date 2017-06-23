@@ -1,0 +1,22 @@
+/** {
+   border: 1px solid red !important;
+}*/
+
+html { 
+  background: url("https://cdn.vox-cdn.com/uploads/chorus_image/image/49958705/game-of-thrones-poster_85627-1920x1200.0.jpg") no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+.App {
+  text-align: center;
+}
+
+.App-header {
+  height: 100px;
+  color: white;
+  font-size: 50px;
+  margin-top: 240px;
+}
