@@ -16,12 +16,12 @@ no-server project
   * Some group of answers (radio buttons)
       * radio - you can only select one
   * next/submit button (disabled until you select an answer, or none if checkbox, or question permits)
-    * If question answered incorrectly, a gif of ned stark getting his head cut off
+    * If question answered incorrectly, a gif of ned stark getting his head cut off (possibly)
  
 * Results Page
   * How many trivia questions you got right
-  * Leader board -> who took the quiz recently and their score
-  * Take again button -> (start of quiz not landing page)
+  * Leader board -> who took the quiz recently and their score (possibly)
+  * Take again button -> (start of quiz not landing page) (possibly)
  
  
 Day 1 goals:
